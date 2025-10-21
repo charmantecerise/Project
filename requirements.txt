@@ -1,4 +1,4 @@
-opencv-python
-pillow
-matplotlib
-numpy
+opencv-python>=4.8.0
+numpy>=1.25.0
+pandas>=2.0.0
+matplotlib>=3.7.0
